@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>segunda aula</title>
+    <link rel="shortcut icon" href="imagens/python.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <div id="pequena">
+        <img src="imagens/python.jpg" onclick="aumenta('python.jpg')">
+        <img src="imagens/pexels-designecologist-1779487.jpg" onclick="aumenta('pexels-designecologist-177948.jpg')">
+        <img src="imagens/pexels-thisisengineering-3861969.jpg" onclick="aumenta('pexels-thisisengineering-3861969.jpg')">
+
+    </div>
+
+    <div id="grande">
+        <img src="imagens/pexels-sharad-kachhi-3937174 (1).jpg" id="big">
+        <img src="imagens/pexels-thisisengineering-3861972 (1).jpg">
+
+    </div>
+
+    <script>
+        
+        function aumenta(nomeimg) {
+            document.getElementById("big").src = nomeimg;
+        }
+
+    </script>
+
+
+</body>
+
+</html>

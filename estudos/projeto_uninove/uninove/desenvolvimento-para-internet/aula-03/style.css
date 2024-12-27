@@ -1,0 +1,47 @@
+h1 {
+    background-color: brown;
+    color: aqua;
+    border: solid black 3px;
+}
+
+h2 {
+    background-color: blue;
+    color: orange;
+    
+}
+
+.esq {/* class = "esq" */
+    margin-left: 50px;
+}
+
+.branco {
+    color: white;
+}
+
+.fundo {
+    color: burlywood;
+}
+
+
+#sub3 {/* id = "sub3" */
+    border: solid coral 3px;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+/*
+Hexadecimal
+0123456789abcdef
+
+RED GREEN BLUE
+
+00 nada 
+ff maxímo
+
+#ff0000 - vermelho (red)
+#00ff00 - verde (green)
+#0000ff - azul (blue)
+
+*/

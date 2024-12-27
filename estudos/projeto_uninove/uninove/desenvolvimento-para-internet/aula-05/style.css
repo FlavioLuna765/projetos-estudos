@@ -1,0 +1,41 @@
+* {
+    margin: 2px;
+    padding: 5px;
+}
+body {
+    background-color: aquamarine;
+    background-image: url(./imagens/pexels-cottonbro-studio-5473951.jpg);
+
+}
+
+h1 {
+    background-color: chartreuse;
+    color: white;
+    /* margin-left: 60px;*/
+    /* margin: 0px auto; */
+    /* padding: 20px; */
+    /* width: 500px; */
+    text-align: center;
+
+}
+
+#div1 {
+    background-color: crimson;
+    /* margin: 35px 10px 20px 250px; */
+
+}
+
+.div2 {
+    background-color: blanchedalmond;
+
+}
+
+div {
+    background-color: coral;
+}
+
+footer {
+    width: 12px;
+    height: 10px;
+    padding: auto;
+}

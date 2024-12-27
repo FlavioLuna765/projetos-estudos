@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+html {
+    height: 156vh;
+}
+
+.container {
+    max-width: 1280px;
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header {
+    width: 100%;
+    padding: 60px 4%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: .4s;
+
+}
+
+header.rolagem {
+    background-color: #fff;
+    padding: 19px 5%;
+    
+}
+
+header.rolagem a, header.rolagem span {
+    color: blue;
+}
+
+.botao-contato button {
+    width: 120px;
+    height: 42px;
+    border-radius: 20px;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+    transition: .2s;
+}
+
+header  span {
+    font-size: 30px;
+    color: #fff;
+}
+
+header ul {
+    list-style-type: none;
+}
+
+header ul li {
+    display: inline-block;
+    margin: 0 40px;
+}
+
+header ul li a {
+    color: #fff;
+    font-size: 1em;
+    text-decoration: none;
+
+}
+
+
+.banner h1 {
+    font-size: 4em;
+    position: fixed;
+    padding: 70px;
+
+} 
+
+.banner h1 span {
+    color: #fff;
+}
+
+.banner {
+    height: 178vh;
+    width: 100%;
+    background-image: url(../imagens/pexels-jan-kopřiva-3354647.jpg);
+    background-position: 100% 0;
+    background-repeat: none;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner h2 {
+    color: #fff;
+}
+
+footer {
+    background-color: #777;
+    padding: 4px;
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+button {
+    background-color: blueviolet;
+    /* muda o tipo da fonte */
+    font-family: sans-serif;
+    font-size: 2pc;
+}
+
+
+div#caixa {
+    width: 150px;
+    height: 100px;
+    background-color: #ededed;
+    box-shadow: 10px 15px 15px #000000;
+    display: flex;
+    align-items: center;
+    /* vertical */
+    text-align: center;
+    /* horizontal */
+    border: solid #c0c0c0 1px;
+    border-radius: 10px;
+    /* arredonda cantos */
+    padding-left: 10px;
+    padding-right: 10px;
+    display:none; /* deixar oculto */
+
+}
+    

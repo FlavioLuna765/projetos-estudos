@@ -1,0 +1,25 @@
+body {
+    background-color: cornflowerblue;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h2 {
+    text-align: center;
+}
+
+iframe {
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    margin-top: 342px;
+    color: white;
+}

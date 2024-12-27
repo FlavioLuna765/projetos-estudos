@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhe Conosco</title>
+    <link rel="shortcut icon" href="imagens/android-chrome-512x512.png" type="image/x-icon">
+    <link rel="stylesheet" href="estilos_css/trabalhe_conosco.css">
+</head>
+<body>
+    <h2>Trabalhe Conosco</h2>
+    <p>Preencha seus dados</p>
+
+    <form action="">
+        <fieldset>
+            <legend>Dados Pessoais</legend>
+                <p>
+                    <label for="inome"> Nome : </label>
+                    <input type="text" name="nome" id="inome" minlength="5" maxlength="20" placeholder=" digite nome completo" required><br>
+                </p>
+    
+                <p>
+                    <label for="iemail"> E-mail : </label>
+                    <input type="email" name="email" id="iemail" autocomplete="email" placeholder="digite seu email" required>
+                </p>
+    
+                <p>
+                    <label for="itel"> Telefone : </label>
+                    <input type="tel" name="tel" id="itel" autocomplete="itel" pattern="^\(\d{2}\)\d{4,5}-\d{4}$" placeholder="(xx)xxxxx-xxxx" required>
+                </p>
+        </fieldset>
+
+        <fieldset>
+            <legend>Mensagem Opcional</legend>
+            <p>
+                <label for="">Digite a Mensagem: </label><br>
+                <textarea name="escreva a mensagem" id="" cols="30" rows="10"></textarea><br>
+            </p>
+        </fieldset>
+
+        <input type="submit" value="Enviar" name="" id="">
+
+        <input type="reset" value="Limpar" name="" id="">
+    </form>
+
+    <footer>
+        <p>
+            &copy; 2023 - Desenvolvido por Lava Rápido Lava Mais...
+        </p>
+    </footer>
+</body>
+</html>

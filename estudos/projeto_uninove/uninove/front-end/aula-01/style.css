@@ -1,0 +1,20 @@
+* {
+    margin: 15px auto;
+}
+
+div#pequena {
+    width: 90%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+}
+
+div#pequena img {
+    flex: 1;
+}
+
+div#grande {
+    width: 850px;
+    height: 280px;
+    border: solid red 1px;
+}

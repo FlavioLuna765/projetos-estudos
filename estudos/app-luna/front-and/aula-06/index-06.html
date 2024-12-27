@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="conf-06.css">
+</head>
+<body>
+    <button  onmouseover="mostrar()" onmouseout="esconder()">
+        Dica
+    </button>
+    <div  id="caixa">
+        Trabalhe e estude enquanto eles dormem.
+    </div>
+
+    <script>
+       function mostrar() {
+         document.getElementById("caixa").style.display = "flex";
+       }
+       function esconder() {
+        document.getElementById("caixa").style.display = "none";
+       }
+    </script>
+    
+</body>
+</html>

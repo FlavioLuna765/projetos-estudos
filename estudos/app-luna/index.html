@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Luna Pay</title>
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+    <link rel="stylesheet" href="estilos/style.css">
+    <link rel="stylesheet" href="estilos/media-query/style.css">
+</head>
+<body>
+    <main>
+        <section id="login">
+            <div id="imagem">
+
+            </div>
+
+            <div id="formulario">
+                <h1>Login</h1>
+
+                <p>Seja bem-vindo(a) novamente. Faça login para acessar sua conta e poder configurar seu ambiente. </p>
+
+                <form action="login.php" method="post">
+                    <div class="campo">
+                        <span class="material-symbols-outlined">person</span>
+                        <input type="text" name="usuario" id="iusuario" placeholder=" digite seu e-mail" autocomplete="email">
+                        <label for="ilogin"></label>
+                    </div>
+
+                    <div class="campo">
+                        <span class="material-symbols-outlined">vpn_key</span>
+                        <input type="password" name="senha" id="isenha" placeholder="digite sua senha" autocomplete="current-password">
+                        <label for="isenha"></label>
+                    </div>
+
+                    <div class="campo">
+                        <span class="material-symbols-outlined">login</span>
+                        <input type="button" value="Entrar" onclick="validar(usuario.value, senha.value)">
+                        <label for="ientrar"></label>
+                    </div>
+
+                    <a href="esqueci.html" class="botao">
+                        Esqueci a senha <span class="material-symbols-outlined">email</span>
+                    </a>
+                    <!--
+                        javascript 
+                        <input type="submit" value="Entrar" name="" id="">
+                    <button>Esqueci a senha</button>
+                     -->
+                </form>
+
+            </div>
+
+        </section>
+    </main>
+    <script src="acesso.js"></script>
+    
+</body>
+</html>

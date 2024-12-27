@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SiderBar</title>
+    <link rel="stylesheet" href="/estilos/form.css">
+    <link rel="stylesheet" href="estilos/siderbar.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+</head>
+<body>
+    <nav class="menu-lateral"><!-- menu lateral -->
+
+        <div class="btn-expandir"><!-- btn expandir -->
+            <i class="bi bi-list" id="btn-exp"></i>
+        </div>
+
+        <ul>
+            <li class="item-menu ativo"><!-- item menu -->
+                <a href="#">
+                    <span class="icon"><i class="bi bi-house-door"></i></span>
+                    <span class="txt-link">Home</span>
+                </a>
+            </li>
+            <li class="item-menu"><!-- item menu -->
+                <a href="#">
+                    <span class="icon"><i class="bi bi-calendar3"></i></span>
+                    <span class="txt-link">Serviços</span>
+                </a>
+            </li>
+            <li class="item-menu"><!-- item menu -->
+                <a href="#">
+                    <span class="icon"><i class="bi bi-building-gear"></i></span>
+                    <span class="txt-link">Orçamento</span>
+                </a>
+            </li>
+            <li class="item-menu"><!-- item menu -->
+                <a href="#">
+                    <span class="icon"><i class="bi bi-columns-gap"></i></span>
+                    <span class="txt-link">Trabalhe Conosco</span>
+                </a>
+            </li>
+            <li class="item-menu"><!-- item menu -->
+                <a href="#">
+                    <span class="icon"><i class="bi bi-person-workspace"></i></span>
+                    <span class="txt-link">Contatos</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    
+    <section class="banner">
+        <nav class="menu-lateral">
+            <div class="btn-expandir">
+                <i class="bi bi-list" id="btn-exp"></i>
+            </div>
+            <ul class="navegacao">
+
+                <li class="item-menu ativo"><!-- item menu -->
+                    <a href="#">
+                        <span class="icon"><i class="bi bi-house-door"></i></span>
+                        <span class="txt-link">Home</span>
+                    </a>
+                </li>
+                <li class="item-menu"><!-- item menu -->
+                    <a href="#">
+                        <span class="icon"><i class="bi bi-columns-gap"></i></span>
+                        <span class="txt-link">Trabalhe Conosco</span>
+                    </a>
+                </li>
+                <li class="item-menu"><!-- item menu -->
+                    <a href="#">
+                        <span class="icon"><i class="bi bi-person-workspace"></i></span>
+                        <span class="txt-link">Contatos</span>
+                    </a>
+                </li>
+                
+                
+            </ul>
+        </nav>
+
+        <article class="artico">
+
+            <h1>Contato</h1>
+            <p>Preencha os campos abaixo :</p>
+
+            <form method="post">
+
+                <div>
+                    <label for="nome">Nome</label><br>
+                    <input type="text" name="nome" id="nome" placeholder="Digite seu nome">
+                </div>
+
+                <div>
+                    <label for="email">E-mail</label><br>
+                    <input type="email" name="email" id="email" placeholder="Digite seu email">
+                </div>
+
+                <div>
+                    <label for="mensagem">Mensagem</label><br>
+                    <textarea name="mensagem" id="mensagem" rows="5"></textarea>
+                </div>
+
+                <div>
+                    <p>
+                        <label>Qual linguagem você prefere?</label>
+                        <input type="radio" name="linguagens" value="html"> Html
+                        <input type="radio" name="linguagens" value="css"> Css
+                        <input type="radio" name="linguagens" value="javascript"> JavaScript
+                    </p>
+                </div>
+
+                <div>
+                    <p>
+                        <label>Quais linguagens você sabe?</label>
+                        <input type="checkbox" name="linguagens" value="html"> Html
+                        <input type="checkbox" name="linguagens" value="css"> Css
+                        <input type="checkbox" name="linguagens" value="javascript"> JavaScript
+                    </p>
+                </div>
+
+                <div>
+                    <label>Qual a sua cor favorita?</label>
+                    <select>
+                        <option value="Azul">Azul</option>
+                        <option value="Verde">Verde</option>
+                        <option value="Vermelho" selected>Vermelho</option>
+                    </select>
+                </div>
+
+                <div class="btn">
+                    <button>Click para Enviar</button>
+                    <input type="button" value="Envie">
+                    <input type="submit" >
+                </div>
+                
+
+            </form>
+
+        </article>
+    </section>
+
+    <script src="javascript/menu.js"></script>
+
+    <footer>
+        <p>
+            &copy; 2023 Desenvolvido por Flávio Luna
+        </p>
+    </footer>
+    
+</body>
+</html>

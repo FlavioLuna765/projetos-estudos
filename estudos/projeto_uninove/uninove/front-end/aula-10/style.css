@@ -1,0 +1,12 @@
+body {
+    background-image: url(imagens/pexels-axel-sandoval-14623810.jpg);
+    background-color: burlywood;
+    color: white;
+    font-size: 38px;
+}
+
+input, button {
+    font-size: 28px;
+}
+
+

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplos e exercicios</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Calculadora</h1>
+    <form>
+
+        <label>Primeiro numero: </label>
+        <input type="number" name="n1" step="0.50"><br>
+
+        <label>Segundo numero: </label>
+        <input type="number" name="n2" step="0.50"><br>
+        
+        <label>Terceiro numero: </label>
+        <input type="number" name="n3" step="0.50"><br>
+
+        <input type="button" value="Somar" onclick="somar(n1.value, n2.value, n3.value)">
+
+    </form>
+
+    <h1 id="dados">
+    </h1>
+
+    <script src="javascript.js"></script>
+
+</body>
+</html>

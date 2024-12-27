@@ -1,0 +1,363 @@
+SERVIÇOS QUE O LAVA MAIS OFERECE!
+Lavagem Externa:
+Lavagem simples.
+Lavagem com cera.
+Lavagem a seco.
+Lavagem Interna:
+Aspiração.
+Limpeza de painéis e console.
+Limpeza de vidros e espelhos.
+Higienização e Limpeza de Estofados:
+Limpeza de bancos de tecido ou couro.
+Limpeza de tapetes e carpetes.
+Polimento e Cristalização:
+Polimento da pintura.
+Cristalização da pintura para proteção.
+Enceramento:
+
+Aplicação de cera para proteção da pintura.
+Tratamento de Rodas e Pneus:
+Limpeza e tratamento de rodas.
+Aplicação de produtos em pneus.
+Serviços Express:
+Lavagem rápida para clientes com pouco tempo disponível.
+Serviços Personalizados:
+Pacotes customizados conforme as necessidades do cliente.
+
+-----------------------------------------------------------------------------------------------------
+
+UNIVERSIDADE NOVE DE JULHO DIRETORIA DOS CURSOS DE INFORMÁTICA
+
+
+
+
+ANTONIONE DA SILVA RODRIGUES                 2223101086        
+DIEGO GOMES LEITE DA SILVA                         2222204283        
+EDNELMA DE OLIVEIRA LINS                            2223103649        
+FLAVIO FERREIRA DE LUNA                               2223102229       
+GABRIEL DOS ANJOS THEODORO                     2223102387     
+GUILHERME ROXO DA SILVA                              2223104198      
+KENNEDY ALVES DE AURORA                            2223104801      
+LUCAS SOUSA MENDONÇA                               2223103122                                                                                   
+SAMUEL  BRANDÃO LUCAS                               2223102665     
+
+
+
+
+
+
+PROJETO EM GESTÃO DE SISTEMAS COMPUTACIONAIS: 
+LAVA RAPIDO “LAVA MAIS”
+
+
+
+
+
+                           SÃO PAULO
+ 
+                
+
+ANTONIONE DA SILVA RODRIGUES                 2223101086        
+DIEGO GOMES LEITE DA SILVA                         2222204283        
+EDNELMA DE OLIVEIRA LINS                            2223103649        
+FLAVIO FERREIRA DE LUNA                               2223102229       
+GABRIEL DOS ANJOS THEODORO                     2223102387     
+GUILHERME ROXO DA SILVA                              2223104198      
+KENNEDY ALVES DE AURORA                            2223104801      
+LUCAS SOUSA MENDONÇA                               2223103122                                                                                   
+SAMUEL  BRANDÃO LUCAS                               2223102665     
+
+2023
+
+
+PROJETO EM GESTÃO DE SISTEMAS COMPUTACIONAIS: 
+LAVA RAPIDO “LAVA MAIS”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trabalho apresentado à Universidade Nove de Julho, UNINOVE, em cumprimento parcial às exigências da disciplina de Projeto em Gestão de Sistemas Computacionais, sob orientação do Prof. Adriano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SÃO PAULO 2023
+SUMÁRIO
+
+
+    1. OBJETIVOS	4
+    2. DESCRIÇÃO DA EMPRESA	5
+    3. MISSÃO, VISÃO E VALORES DA EMPRESA	6
+        3.1. MISSÃO	6
+        3.2. VISÃO	6
+        3.3. VALORES	6
+    4. DEFINIÇÃO DA EQUIPE, DIVISÃO DE PAPÉIS E TAREFAS, CRONOGRAMA DE DESENVOLVIMENTO	7
+    5. PARTICIPAÇÃO DAS DISCIPLINAS DO SEMESTRE	8
+    6. CONCLUSÃO	9
+    7. REFERÊNCIAS	10
+
+
+    1. OBJETIVOS
+
+
+O objetivo do lava rapido“LAVA MAIS”, é oferecer servisos de limpeza e higienização automotiva de forma rápida e segura para seus clientes, tendo em vista sempre a qualidade do seus serviços, eficiencia e comprometimento com o serviço prestado.
+A satisfação do cliente deve ser a prioridade dos nosos serviços.
+O projeto envolve a criação e operação de um lava-rápido que oferecerá uma ampla gama de serviços de limpeza automotiva, incluindo lavagem exterior, aspiração interna, polimento, enceramento, limpeza de estofados e muito mais. Os principais elementos deste projeto inclue.
+
+
+1.1     PROPOSTA DO PROJETO
+
+A proposta do projeto é criar e operar um lava-rápido de alta qualidade, com o objetivo de oferecer serviços de limpeza eficientes e convenientes para veículos, atendendo às necessidades dos clientes. O projeto envolve os seguintes elementos-chave:
+Localização Estratégica: Encontrar e adquirir um local estratégico que seja de fácil acesso para os clientes e que tenha boa visibilidade.
+Infraestrutura e Equipamentos: Investir em equipamentos de limpeza de alta qualidade, produtos de limpeza especializados e instalações adequadas para garantir a eficácia dos serviços prestados.
+Equipe Qualificada: Contratar e treinar uma equipe qualificada e dedicada que siga os padrões de qualidade estabelecidos para a limpeza automotiva.
+Serviços Personalizados: Oferecer opções de personalização para os clientes, permitindo que escolham serviços específicos de acordo com suas preferências e necessidades.
+Agendamento Online: Implementar um sistema de agendamento online para proporcionar comodidade e flexibilidade aos clientes, permitindo que marquem os serviços de forma rápida e conveniente.
+Controle de Qualidade: Estabelecer procedimentos rigorosos de controle de qualidade para garantir que cada veículo seja entregue em excelentes condições após a limpeza.
+Os benefícios esperados desse projeto incluem a satisfação dos clientes com veículos limpos e bem cuidados, a geração de empregos na comunidade local, a melhoria da estética e do valor de revenda dos veículos dos clientes, o acesso conveniente a serviços de limpeza automotiva e a contribuição para a economia local.
+
+    2. DESCRIÇÃO DA EMPRESA
+         O "LAVA MAIS" é um lava-rápido estabelecido em São Paulo no ano de 2022, originado a partir da iniciativa de um grupo de estudantes de Analise e desenvolvimento de Sistema da Universidade Uninove, onde em uma conversa eles identificaram lacunas no setor de lavagens de automóveis e então resolveram investir nesse segmento a fim de melhorar essas deficiências encontradas, e desde então com a criação do LAVA MAIS todos se comprometeram a modernizar e aprimorar esses serviços.
+           Compromisso com a Qualidade e Atendimento Amigável: O "LAVA MAIS" destaca-se por sua abordagem amigável e centrada no cliente. A equipe é treinada para receber os clientes com cordialidade e atenção, criando um ambiente acolhedor desde o momento em que o cliente adentra as instalações.
+           Modernização e Agilidade: A empresa adotou métodos modernos, incluindo um site que permite aos clientes agendar serviços de maneira segura e eficiente. Essa modernização resulta em maior agilidade e qualidade nos serviços prestados.
+          Variedade de Serviços: O "LAVA MAIS" oferece uma ampla gama de serviços para atender às necessidades individuais de seus clientes, como lavagem externa, limpeza interna, polimento, enceramento e higienização. Diversos pacotes estão disponíveis para se adequar a diferentes orçamentos e necessidades de limpeza.
+           Sustentabilidade Ambiental: A empresa também se compromete com a sustentabilidade, utilizando produtos de limpeza biodegradáveis e implementando sistemas de reciclagem de água para reduzir o impacto ambiental.
+         Transparência e Confiabilidade: A transparência e a confiabilidade são valores fundamentais da LAVA MAIS. Os clientes podem acompanhar o progresso de seus veículos por meio de atualizações em tempo real e receber notificações quando o serviço estiver concluído, garantindo uma experiência tranquila e confiável.
+
+    3. MISSÃO, VISÃO E VALORES DA EMPRESA
+
+
+        3.1. MISSÃO
+
+
+
+Nossa missão do “LAVA MAIS” é ser reconhecida como referencia no setor de lavagens de automoveis,proporcionando aos clientes uma experiencia excepcional desde o momento em que procuram o LAVA MAIS até a conclusão do serviço solicitado.
+Nosso compromisso é exceder constantimente as expectativas dos clientes,oferecendo serviços com agilidade,qualidade,segurança e garantindo total satisfação.
+Queremos ser a escolha preferida dos clientes por atender sempre os clientes com muito respeito,praticidade e oferecer os nosos serviços com alta qualidade, eficiencia
+ e uma experiencia inigualavel em cuidados com seus automoveis.
+
+        3.2. VISÃO
+
+A visão da LAVA MAIS é ser a principal referencia Nacional em qualidade,praticidade e agilidade na execução dos seus serviços,e pela exelência no atendimento ao cliente e na responsabilidade ambiental.
+Buscamos continuamente a inovação e a expansão, mantendo o compromisso com a satisfação de nossos clientes e o respieto ao meio ambiente.
+
+        3.3. VALORES
+
+Nosso valor esta em preservar sempre a qualidade buscando constantemente a exelência em nossos serviços, garantindo a satisfação completa de nossos clientes.
+Tambem nos comprometemos em adotar boas praticas ecologicas minimizando nosso impacto ambiental e promovendo a responsabilidade ambiental.
+Visamos atender as necessidades dos nossos clientes, sempre ouvindo suas opiniões e superando suas expectativas.
+
+
+    4. DEFINIÇÃO DA EQUIPE, DIVISÃO DE PAPÉIS E TAREFAS, CRONOGRAMA DE DESENVOLVIMENTO
+
+
+DEADLINI
+1
+DEADLINI
+2
+DEADLINI
+3
+DEADLINI
+4
+DEADLINI
+5
+DEADLINI
+6
+DEADLINI
+7
+NELMA
+x
+x
+
+
+x
+x
+
+FLAVIO
+x
+
+x
+
+
+x
+
+ANTONIONE
+x
+x
+
+
+x
+x
+
+DIEGO
+x
+
+x
+
+
+
+
+GABRIEL
+x
+
+
+x
+
+
+
+LUCAS
+x
+
+
+x
+
+x
+
+GUILHERME
+x
+
+
+
+
+
+
+KENNEDY
+x
+
+
+x
+
+x
+
+SAMUEL
+x
+
+x
+
+
+
+
+
+                                       
+
+Deadline 1: Definição do projeto, escolha dos integrantes e separação das tarefas. 
+Deadline 2: Documentação e ideias. 
+Deadline 3: Construção da interface 
+Deadline 4: Construção do código. 
+Deadline 5: Segunda parte da documentação. 
+Deadline 6: Documentação e interface completa. 
+
+
+
+
+
+
+
+
+
+
+
+
+                                          DIAGRAMAS DE ETAPAS DE PROCESSO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.1. MODELO LÓGICO
+
+
+
+
+
+
+
+
+
+
+6. SISTEMA
+
+
+
+
+
+        7.IMAGENS DO SISTEMA 
+
+
+        7.1 HOME
+
+
+
+7.2 TELA DE EXIBIÇÃO DO LAVA RAPIDO
+
+7.3 TELA DE LOGIN E REGISTRO DOS USUÁRIOS
+
+7.4 TELA DO PERFIL DE CADA TIPO DE USUÁRIO
+
+7.5 TELA DOS SERVIÇOS PRESTADOS/ESCOLHA DOS SERVIÇOS
+
+7.6 TELA 
+
+
+ 
+    5. CONCLUSÃO
+
+
+
+
+

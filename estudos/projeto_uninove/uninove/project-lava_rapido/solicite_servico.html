@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solicite um Orçamento</title>
+    <link rel="shortcut icon" href="imagens/android-chrome-512x512.png" type="image/x-icon">
+    <link rel="stylesheet" href="estilos_css/solicite_servico.css">
+</head>
+<body>
+    <h2>Preencha o Formulário</h2>
+
+    <form action="cadastro.php" method="get" autocomplete="on">
+        <fieldset><p>
+            <legend>Dados Pessoais</legend>
+                <label for="inome"> Nome : </label>
+                <input type="text" name="nome" id="inome" minlength="5" maxlength="20" placeholder=" digite nome completo" required><br>
+            </p>
+
+            <p>
+                <label for="iemail"> E-mail : </label>
+                <input type="email" name="email" id="iemail" autocomplete="email" placeholder="digite seu email" required>
+            </p>
+
+            <p>
+                <label for="itel"> Telefone : </label>
+                <input type="tel" name="tel" id="itel" autocomplete="itel" pattern="^\(\d{2}\)\d{4,5}-\d{4}$" placeholder="(xx)xxxxx-xxxx" required>
+            </p>
+        </fieldset>
+
+        <fieldset>
+            <legend>Endereço pessoal</legend>
+            <p>
+                <label for="icep">Cep :</label>
+                <input type="text" name="" placeholder=" digite seu cep" id=""><br>
+            </p>
+            <p>
+                <label for="iendereço"> Endereço : </label>
+                <input type="text" name="" placeholder=" digite seu endereço" id=""><br>
+            </p>
+            <p>
+                <label for="icidade">Cidade :</label>
+                <input type="cidade" name="icidade" id="icidade" autocomplete="cidade" placeholder="digite sua cidade" required>
+            </p>
+            <p>
+                <label for="iestado">Estado :</label>
+                <input type="estado" name="iestado" id="iestado" autocomplete="estado" placeholder="digite seu estado" required>
+            </p>
+        </fieldset>
+
+        <fieldset>
+            <legend>Descrição do Pedido</legend>
+            <p>
+                <label for=""> Informaçoes do pedido : </label><br>
+                <textarea name="escreva a mensagem" id="" cols="30" rows="10"></textarea><br>
+            </p>
+        </fieldset>
+
+        <input type="submit" value="Enviar" name="" id="">
+        <input type="reset" value="Limpar" name="" id="">
+    </form>
+
+    <footer>
+        <p>
+            &copy; 2023 - Desenvolvido por Lava Rápido Lava Mais...
+        </p>
+    </footer>
+
+</body>
+</html>
